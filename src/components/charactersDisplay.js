@@ -37,6 +37,8 @@ handleClick(){
 
                 {this.state.characters[2].display_name} says:<br/>
                 "{this.state.characters[2].profile_id}"<br/><br/>
+
+                heyyyyyy
             </div>
         )
     }
